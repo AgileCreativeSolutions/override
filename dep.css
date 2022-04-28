@@ -104,128 +104,128 @@ font-size: 5rem !important
 /* For devices larger than 575px (Phablet) */
 @media (min-width: 575px) {
 .acs-text-1-sm {
-font-size: .125rem
+font-size: .125rem !important
 }
 .acs-text-2-sm {
-font-size: .25rem
+font-size: .25rem !important
 }
 .acs-text-3-sm {
-font-size: .5rem
+font-size: .5rem !important
 }
 .acs-text-4-sm {
-font-size: .75rem
+font-size: .75rem !important
 }
 .acs-text-5-sm {
-font-size: .875rem
+font-size: .875rem !important
 }
 .acs-text-6-sm {
-font-size: 1rem
+font-size: 1rem !important
 }
 .acs-text-7-sm {
-font-size: 1.125rem
+font-size: 1.125rem !important
 }
 .acs-text-8-sm {
-font-size: 1.25rem
+font-size: 1.25rem !important
 }
 .acs-text-9-sm {
-font-size: 1.5rem
+font-size: 1.5rem !important
 }
 .acs-text-10-sm {
-font-size: 1.75rem
+font-size: 1.75rem !important
 }
 .acs-text-11-sm {
-font-size: 1.875rem
+font-size: 1.875rem !important
 }
 .acs-text-12-sm {
-font-size: 2rem
+font-size: 2rem !important
 }
 .acs-text-13-sm {
-font-size: 2.125rem
+font-size: 2.125rem !important
 }
 .acs-text-14-sm {
-font-size: 2.25rem
+font-size: 2.25rem !important
 }
 .acs-text-15-sm {
-font-size: 2.5rem
+font-size: 2.5rem !important
 }
 .acs-text-16-sm {
-font-size: 2.75rem
+font-size: 2.75rem !important
 }
 .acs-text-17-sm {
-font-size: 2.875rem
+font-size: 2.875rem !important
 }
 .acs-text-18-sm {
-font-size: 3rem
+font-size: 3rem !important
 }
 .acs-text-19-sm {
-font-size: 4rem
+font-size: 4rem !important
 }
 .acs-text-20-sm {
-font-size: 5rem
+font-size: 5rem !important
 }
 }
 
 /* For devices larger than 768px (Desktop) */
 @media (min-width: 768px) {
 .acs-text-1-md {
-font-size: .125rem
+font-size: .125rem !important
 }
 .acs-text-2-md {
-font-size: .25rem
+font-size: .25rem !important
 }
 .acs-text-3-md {
-font-size: .5rem
+font-size: .5rem !important
 }
 .acs-text-4-md {
-font-size: .75rem
+font-size: .75rem !important
 }
 .acs-text-5-md {
-font-size: .875rem
+font-size: .875rem !important
 }
 .acs-text-6-md {
-font-size: 1rem
+font-size: 1rem !important
 }
 .acs-text-7-md {
-font-size: 1.125rem
+font-size: 1.125rem !important
 }
 .acs-text-8-md {
-font-size: 1.25rem
+font-size: 1.25rem !important
 }
 .acs-text-9-md {
-font-size: 1.5rem
+font-size: 1.5rem !important
 }
 .acs-text-10-md {
-font-size: 1.75rem
+font-size: 1.75rem !important
 }
 .acs-text-11-md {
-font-size: 1.875rem
+font-size: 1.875rem !important
 }
 .acs-text-12-md {
-font-size: 2rem
+font-size: 2rem !important
 }
 .acs-text-13-md {
-font-size: 2.125rem
+font-size: 2.125rem !important
 }
 .acs-text-14-md {
-font-size: 2.25rem
+font-size: 2.25rem !important
 }
 .acs-text-15-md {
-font-size: 2.5rem
+font-size: 2.5rem !important
 }
 .acs-text-16-md {
-font-size: 2.75rem
+font-size: 2.75rem !important
 }
 .acs-text-17-md {
-font-size: 2.875rem
+font-size: 2.875rem !important
 }
 .acs-text-18-md {
-font-size: 3rem
+font-size: 3rem !important
 }
 .acs-text-19-md {
-font-size: 4rem
+font-size: 4rem !important
 }
 .acs-text-20-md {
-font-size: 5rem
+font-size: 5rem !important
 }
 }
 
@@ -233,64 +233,64 @@ font-size: 5rem
 /* For devices larger than 1024px (Large Desktop) */
 @media (min-width: 1024px) {
 .acs-text-1-lg {
-font-size: .125rem
+font-size: .125rem !important
 }
 .acs-text-2-lg {
-font-size: .25rem
+font-size: .25rem !important
 }
 .acs-text-3-lg {
-font-size: .5rem
+font-size: .5rem !important
 }
 .acs-text-4-lg {
-font-size: .75rem
+font-size: .75rem !important
 }
 .acs-text-5-lg {
-font-size: .875rem
+font-size: .875rem !important
 }
 .acs-text-6-lg {
-font-size: 1rem
+font-size: 1rem !important
 }
 .acs-text-7-lg {
-font-size: 1.125rem
+font-size: 1.125rem !important
 }
 .acs-text-8-lg {
-font-size: 1.25rem
+font-size: 1.25rem !important
 }
 .acs-text-9-lg {
-font-size: 1.5rem
+font-size: 1.5rem !important
 }
 .acs-text-10-lg {
-font-size: 1.75rem
+font-size: 1.75rem !important
 }
 .acs-text-11-lg {
-font-size: 1.875rem
+font-size: 1.875rem !important
 }
 .acs-text-12-lg {
-font-size: 2rem
+font-size: 2rem !important
 }
 .acs-text-13-lg {
-font-size: 2.125rem
+font-size: 2.125rem !important
 }
 .acs-text-14-lg {
-font-size: 2.25rem
+font-size: 2.25rem !important
 }
 .acs-text-15-lg {
-font-size: 2.5rem
+font-size: 2.5rem !important
 }
 .acs-text-16-lg {
-font-size: 2.75rem
+font-size: 2.75rem !important
 }
 .acs-text-17-lg {
-font-size: 2.875rem
+font-size: 2.875rem !important
 }
 .acs-text-18-lg {
-font-size: 3rem
+font-size: 3rem !important
 }
 .acs-text-19-lg {
-font-size: 4rem
+font-size: 4rem !important
 }
 .acs-text-20-lg {
-font-size: 5rem
+font-size: 5rem !important
 }
 }
 
@@ -298,64 +298,64 @@ font-size: 5rem
 /* For devices larger than 1280px (XL Desktop) */
 @media (min-width: 1280px) {
 .acs-text-1-xl {
-font-size: .125rem
+font-size: .125rem !important
 }
 .acs-text-2-xl {
-font-size: .25rem
+font-size: .25rem !important
 }
 .acs-text-3-xl {
-font-size: .5rem
+font-size: .5rem !important
 }
 .acs-text-4-xl {
-font-size: .75rem
+font-size: .75rem !important
 }
 .acs-text-5-xl {
-font-size: .875rem
+font-size: .875rem !important
 }
 .acs-text-6-xl {
-font-size: 1rem
+font-size: 1rem !important
 }
 .acs-text-7-xl {
-font-size: 1.125rem
+font-size: 1.125rem !important
 }
 .acs-text-8-xl {
-font-size: 1.25rem
+font-size: 1.25rem !important
 }
 .acs-text-9-xl {
-font-size: 1.5rem
+font-size: 1.5rem !important
 }
 .acs-text-10-xl {
-font-size: 1.75rem
+font-size: 1.75rem !important
 }
 .acs-text-11-xl {
-font-size: 1.875rem
+font-size: 1.875rem !important
 }
 .acs-text-12-xl {
-font-size: 2rem
+font-size: 2rem !important
 }
 .acs-text-13-xl {
-font-size: 2.125rem
+font-size: 2.125rem !important
 }
 .acs-text-14-xl {
-font-size: 2.25rem
+font-size: 2.25rem !important
 }
 .acs-text-15-xl {
-font-size: 2.5rem
+font-size: 2.5rem !important
 }
 .acs-text-16-xl {
-font-size: 2.75rem
+font-size: 2.75rem !important
 }
 .acs-text-17-xl {
-font-size: 2.875rem
+font-size: 2.875rem !important
 }
 .acs-text-18-xl {
-font-size: 3rem
+font-size: 3rem !important
 }
 .acs-text-19-xl {
-font-size: 4rem
+font-size: 4rem !important
 }
 .acs-text-20-xl {
-font-size: 5rem
+font-size: 5rem !important
 }  
 }
 
@@ -364,63 +364,63 @@ font-size: 5rem
 /* For devices larger than 1536px (2XL Desktop) */
 @media (min-width: 1536px) {
 .acs-text-1-2xl {
-font-size: .125rem
+font-size: .125rem !important
 }
 .acs-text-2-2xl {
-font-size: .25rem
+font-size: .25rem !important
 }
 .acs-text-3-2xl {
-font-size: .5rem
+font-size: .5rem !important
 }
 .acs-text-4-2xl {
-font-size: .75rem
+font-size: .75rem !important
 }
 .acs-text-5-2xl {
-font-size: .875rem
+font-size: .875rem !important
 }
 .acs-text-6-2xl {
-font-size: 1rem
+font-size: 1rem !important
 }
 .acs-text-7-2xl {
-font-size: 1.125rem
+font-size: 1.125rem !important
 }
 .acs-text-8-2xl {
-font-size: 1.25rem
+font-size: 1.25rem !important
 }
 .acs-text-9-2xl {
-font-size: 1.5rem
+font-size: 1.5rem !important
 }
 .acs-text-10-2xl {
-font-size: 1.75rem
+font-size: 1.75rem !important
 }
 .acs-text-11-2xl {
-font-size: 1.875rem
+font-size: 1.875rem !important
 }
 .acs-text-12-2xl {
-font-size: 2rem
+font-size: 2rem !important
 }
 .acs-text-13-2xl {
-font-size: 2.125rem
+font-size: 2.125rem !important
 }
 .acs-text-14-2xl {
-font-size: 2.25rem
+font-size: 2.25rem !important
 }
 .acs-text-15-2xl {
-font-size: 2.5rem
+font-size: 2.5rem !important
 }
 .acs-text-16-2xl {
-font-size: 2.75rem
+font-size: 2.75rem !important
 }
 .acs-text-17-2xl {
-font-size: 2.875rem
+font-size: 2.875rem !important
 }
 .acs-text-18-2xl {
-font-size: 3rem
+font-size: 3rem !important
 }
 .acs-text-19-2xl {
-font-size: 4rem
+font-size: 4rem !important
 }
 .acs-text-20-2xl {
-font-size: 5rem
+font-size: 5rem !important
 } 
 }
